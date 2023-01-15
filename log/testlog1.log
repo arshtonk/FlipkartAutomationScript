@@ -1,0 +1,1542 @@
+2022-05-07 23:18:30,384 [main] INFO eCommerce - User provided
+2022-05-07 23:18:30,527 [main] INFO eCommerce - Password provided
+2022-05-07 23:18:30,629 [main] INFO eCommerce - Login in Clicked
+2022-05-07 23:18:35,669 [main] INFO eCommerce - Login Passed
+2022-05-07 23:54:26,182 [main] INFO eCommerce - User provided
+2022-05-07 23:54:26,358 [main] INFO eCommerce - Password provided
+2022-05-07 23:54:26,462 [main] INFO eCommerce - Login in Clicked
+2022-05-07 23:54:31,494 [main] INFO eCommerce - Login Passed
+2022-05-08 00:10:07,024 [main] INFO eCommerce - User provided
+2022-05-08 00:10:07,195 [main] INFO eCommerce - Password provided
+2022-05-08 00:10:07,376 [main] INFO eCommerce - Login in Clicked
+2022-05-08 00:10:12,399 [main] INFO eCommerce - Login Passed
+2022-05-08 00:11:02,401 [main] INFO eCommerce - User provided
+2022-05-08 00:11:02,554 [main] INFO eCommerce - Password provided
+2022-05-08 00:11:02,666 [main] INFO eCommerce - Login in Clicked
+2022-05-08 00:11:07,708 [main] INFO eCommerce - Login Passed
+2022-05-08 12:20:08,779 [main] INFO eCommerce - User provided
+2022-05-08 12:20:08,986 [main] INFO eCommerce - Password provided
+2022-05-08 12:20:09,129 [main] INFO eCommerce - Login in Clicked
+2022-05-08 12:20:14,168 [main] INFO eCommerce - Login Passed
+2022-05-08 12:59:08,311 [main] INFO eCommerce - User provided
+2022-05-08 12:59:08,490 [main] INFO eCommerce - Password provided
+2022-05-08 12:59:08,577 [main] INFO eCommerce - Login in Clicked
+2022-05-08 12:59:13,608 [main] INFO eCommerce - Login Passed
+2022-05-08 13:00:48,328 [main] INFO eCommerce - User provided
+2022-05-08 13:00:48,459 [main] INFO eCommerce - Password provided
+2022-05-08 13:00:48,568 [main] INFO eCommerce - Login in Clicked
+2022-05-08 13:00:53,610 [main] INFO eCommerce - Login Passed
+2022-05-08 13:01:40,551 [main] INFO eCommerce - User provided
+2022-05-08 13:01:40,677 [main] INFO eCommerce - Password provided
+2022-05-08 13:01:40,823 [main] INFO eCommerce - Login in Clicked
+2022-05-08 13:11:11,980 [main] INFO eCommerce - User provided
+2022-05-08 13:11:12,131 [main] INFO eCommerce - Password provided
+2022-05-08 13:11:12,251 [main] INFO eCommerce - Login in Clicked
+2022-05-08 13:11:17,287 [main] INFO eCommerce - Login Passed
+2022-05-08 13:12:18,791 [main] INFO eCommerce - User provided
+2022-05-08 13:12:18,905 [main] INFO eCommerce - Password provided
+2022-05-08 13:12:19,023 [main] INFO eCommerce - Login in Clicked
+2022-05-08 13:12:24,066 [main] INFO eCommerce - Login Passed
+2022-05-08 14:46:40,878 [main] INFO eCommerce - User provided
+2022-05-08 14:46:41,050 [main] INFO eCommerce - Password provided
+2022-05-08 14:46:41,152 [main] INFO eCommerce - Login in Clicked
+2022-05-08 14:46:46,200 [main] INFO eCommerce - Login Passed
+2022-05-08 14:59:47,639 [main] INFO eCommerce - User provided
+2022-05-08 14:59:47,786 [main] INFO eCommerce - Password provided
+2022-05-08 14:59:47,889 [main] INFO eCommerce - Login in Clicked
+2022-05-08 14:59:52,919 [main] INFO eCommerce - Login Passed
+2022-05-08 15:02:19,891 [main] INFO eCommerce - User provided
+2022-05-08 15:02:20,057 [main] INFO eCommerce - Password provided
+2022-05-08 15:02:20,176 [main] INFO eCommerce - Login in Clicked
+2022-05-08 17:45:33,728 [main] INFO eCommerce - User provided
+2022-05-08 17:45:33,896 [main] INFO eCommerce - Password provided
+2022-05-08 17:45:34,020 [main] INFO eCommerce - Login in Clicked
+2022-05-08 17:45:40,146 [main] INFO eCommerce - Login Passed
+2022-05-08 17:47:22,789 [main] INFO eCommerce - User provided
+2022-05-08 17:47:23,003 [main] INFO eCommerce - Password provided
+2022-05-08 17:47:23,147 [main] INFO eCommerce - Login in Clicked
+2022-05-08 17:47:31,785 [main] INFO eCommerce - Login Passed
+2022-05-08 17:51:53,677 [main] INFO eCommerce - User provided
+2022-05-08 17:51:53,853 [main] INFO eCommerce - Password provided
+2022-05-08 17:51:53,990 [main] INFO eCommerce - Login in Clicked
+2022-05-08 17:51:59,048 [main] INFO eCommerce - Login Passed
+2022-05-08 17:52:02,528 [main] INFO eCommerce - Logout Passed
+2022-05-08 17:55:16,700 [main] INFO eCommerce - User provided
+2022-05-08 17:55:16,910 [main] INFO eCommerce - Password provided
+2022-05-08 17:55:17,069 [main] INFO eCommerce - Login in Clicked
+2022-05-08 17:55:22,116 [main] INFO eCommerce - Login Passed
+2022-05-08 17:55:25,422 [main] INFO eCommerce - Logout Passed
+2022-05-08 17:55:34,848 [main] INFO eCommerce - User provided
+2022-05-08 17:55:35,214 [main] INFO eCommerce - Password provided
+2022-05-08 17:55:35,444 [main] INFO eCommerce - Login in Clicked
+2022-05-08 17:55:40,496 [main] INFO eCommerce - Login Passed
+2022-05-08 17:55:45,050 [main] INFO eCommerce - Logout Passed
+2022-05-08 18:02:59,157 [main] INFO eCommerce - User provided
+2022-05-08 18:02:59,301 [main] INFO eCommerce - Password provided
+2022-05-08 18:02:59,421 [main] INFO eCommerce - Login in Clicked
+2022-05-08 18:03:04,451 [main] INFO eCommerce - Login Passed
+2022-05-08 18:03:07,933 [main] INFO eCommerce - Logout Passed
+2022-05-08 18:08:10,558 [main] INFO eCommerce - User provided
+2022-05-08 18:08:10,721 [main] INFO eCommerce - Password provided
+2022-05-08 18:08:10,845 [main] INFO eCommerce - Login in Clicked
+2022-05-08 18:08:15,885 [main] INFO eCommerce - Login Passed
+2022-05-08 18:08:18,177 [main] INFO eCommerce - Logout Passed
+2022-05-08 18:08:27,821 [main] INFO eCommerce - User provided
+2022-05-08 18:08:28,072 [main] INFO eCommerce - Password provided
+2022-05-08 18:08:28,361 [main] INFO eCommerce - Login in Clicked
+2022-05-08 18:08:33,400 [main] INFO eCommerce - Login Passed
+2022-05-08 18:08:37,456 [main] INFO eCommerce - Logout Passed
+2022-05-08 18:08:47,404 [main] INFO eCommerce - User provided
+2022-05-08 18:08:47,535 [main] INFO eCommerce - Password provided
+2022-05-08 18:08:47,658 [main] INFO eCommerce - Login in Clicked
+2022-05-08 18:08:52,676 [main] INFO eCommerce - Login Passed
+2022-08-16 22:41:00,195 [main] INFO eCommerce - User provided
+2022-08-16 22:41:00,304 [main] INFO eCommerce - Password provided
+2022-08-16 22:41:00,391 [main] INFO eCommerce - Login in Clicked
+2022-08-16 22:41:05,414 [main] INFO eCommerce - Login Passed
+2022-08-16 22:41:07,330 [main] INFO eCommerce - Logout Passed
+2022-08-16 22:41:13,204 [main] INFO eCommerce - User provided
+2022-08-16 22:41:13,383 [main] INFO eCommerce - Password provided
+2022-08-16 22:41:13,504 [main] INFO eCommerce - Login in Clicked
+2022-08-16 22:41:18,533 [main] INFO eCommerce - Login Passed
+2022-08-16 22:41:20,645 [main] INFO eCommerce - Logout Passed
+2022-10-10 17:11:40,537 [main] INFO eCommerce - User provided
+2022-10-10 17:11:40,659 [main] INFO eCommerce - Password provided
+2022-10-10 17:11:40,762 [main] INFO eCommerce - Login in Clicked
+2022-10-10 17:11:45,790 [main] INFO eCommerce - Login Passed
+2022-10-10 17:11:48,334 [main] INFO eCommerce - Logout Passed
+2022-12-10 19:10:40,503 [main] INFO eCommerce - User provided
+2022-12-10 19:10:40,796 [main] INFO eCommerce - Password provided
+2022-12-10 19:10:41,718 [main] INFO eCommerce - Login in Clicked
+2022-12-10 19:10:46,847 [main] INFO eCommerce - Login Passed
+2022-12-10 19:11:26,146 [main] INFO eCommerce - User provided
+2022-12-10 19:11:26,481 [main] INFO eCommerce - Password provided
+2022-12-10 19:11:26,788 [main] INFO eCommerce - Login in Clicked
+2022-12-10 19:11:31,821 [main] INFO eCommerce - Login Passed
+2022-12-10 19:11:44,354 [main] INFO eCommerce - User provided
+2022-12-10 19:11:44,529 [main] INFO eCommerce - Password provided
+2022-12-10 19:11:44,610 [main] INFO eCommerce - Login in Clicked
+2022-12-10 19:11:49,622 [main] INFO eCommerce - Login Passed
+2022-12-10 19:12:01,407 [main] INFO eCommerce - User provided
+2022-12-10 19:12:01,523 [main] INFO eCommerce - Password provided
+2022-12-10 19:12:01,608 [main] INFO eCommerce - Login in Clicked
+2022-12-10 19:12:06,623 [main] INFO eCommerce - Login Passed
+2022-12-12 22:28:32,378 [main] INFO eCommerce - User provided
+2022-12-12 22:28:32,499 [main] INFO eCommerce - Password provided
+2022-12-12 22:28:32,579 [main] INFO eCommerce - Login in Clicked
+2022-12-12 22:28:37,604 [main] INFO eCommerce - Login Passed
+2022-12-12 22:29:38,454 [main] INFO eCommerce - User provided
+2022-12-12 22:29:38,573 [main] INFO eCommerce - Password provided
+2022-12-12 22:29:38,665 [main] INFO eCommerce - Login in Clicked
+2022-12-12 22:29:43,683 [main] INFO eCommerce - Login Passed
+2022-12-12 22:29:56,134 [main] INFO eCommerce - User provided
+2022-12-12 22:29:56,312 [main] INFO eCommerce - Password provided
+2022-12-12 22:29:56,500 [main] INFO eCommerce - Login in Clicked
+2022-12-12 22:30:01,568 [main] INFO eCommerce - Login Passed
+2022-12-12 22:30:14,517 [main] INFO eCommerce - User provided
+2022-12-12 22:30:14,618 [main] INFO eCommerce - Password provided
+2022-12-12 22:30:14,712 [main] INFO eCommerce - Login in Clicked
+2022-12-12 22:30:19,724 [main] INFO eCommerce - Login Passed
+2022-12-12 22:30:31,890 [main] INFO eCommerce - User provided
+2022-12-12 22:30:32,015 [main] INFO eCommerce - Password provided
+2022-12-12 22:30:32,123 [main] INFO eCommerce - Login in Clicked
+2022-12-12 22:30:37,137 [main] INFO eCommerce - Login Passed
+2022-12-13 10:44:08,953 [main] INFO eCommerce - User provided
+2022-12-13 10:44:09,081 [main] INFO eCommerce - Password provided
+2022-12-13 10:44:09,182 [main] INFO eCommerce - Login in Clicked
+2022-12-13 10:44:14,203 [main] INFO eCommerce - Login Passed
+2022-12-13 10:45:14,375 [main] INFO eCommerce - User provided
+2022-12-13 10:45:14,482 [main] INFO eCommerce - Password provided
+2022-12-13 10:45:14,567 [main] INFO eCommerce - Login in Clicked
+2022-12-13 10:45:19,587 [main] INFO eCommerce - Login Passed
+2022-12-13 10:45:22,321 [main] INFO eCommerce - Logout Passed
+2022-12-13 11:17:17,708 [main] INFO eCommerce - User provided
+2022-12-13 11:17:17,967 [main] INFO eCommerce - Password provided
+2022-12-13 11:17:18,084 [main] INFO eCommerce - Login in Clicked
+2022-12-13 11:17:18,104 [main] INFO eCommerce - Login Passed
+2022-12-13 11:49:33,961 [main] INFO eCommerce - User provided
+2022-12-13 11:49:34,394 [main] INFO eCommerce - Password provided
+2022-12-13 11:49:34,643 [main] INFO eCommerce - Login in Clicked
+2022-12-13 11:49:34,694 [main] INFO eCommerce - Login Passed
+2022-12-13 11:53:07,838 [main] INFO eCommerce - User provided
+2022-12-13 11:53:08,271 [main] INFO eCommerce - Password provided
+2022-12-13 11:53:08,928 [main] INFO eCommerce - Login in Clicked
+2022-12-13 11:53:09,005 [main] INFO eCommerce - Login Passed
+2022-12-13 11:56:45,945 [main] INFO eCommerce - User provided
+2022-12-13 11:56:46,103 [main] INFO eCommerce - Password provided
+2022-12-13 11:56:46,228 [main] INFO eCommerce - Login in Clicked
+2022-12-13 11:56:46,250 [main] INFO eCommerce - Login Passed
+2022-12-13 11:56:49,123 [main] INFO eCommerce - Moved to my account element
+2022-12-13 11:56:49,268 [main] INFO eCommerce - Logout Passed
+2022-12-13 12:02:59,176 [main] INFO eCommerce - User provided
+2022-12-13 12:02:59,746 [main] INFO eCommerce - Password provided
+2022-12-13 12:03:00,294 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:03:00,351 [main] INFO eCommerce - Login Passed
+2022-12-13 12:10:36,536 [main] INFO eCommerce - User provided
+2022-12-13 12:10:36,963 [main] INFO eCommerce - Password provided
+2022-12-13 12:10:37,136 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:10:37,152 [main] INFO eCommerce - Login Passed
+2022-12-13 12:13:46,434 [main] INFO eCommerce - User provided
+2022-12-13 12:13:46,886 [main] INFO eCommerce - Password provided
+2022-12-13 12:13:47,483 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:13:47,590 [main] INFO eCommerce - Login Passed
+2022-12-13 12:17:19,159 [main] INFO eCommerce - User provided
+2022-12-13 12:17:19,432 [main] INFO eCommerce - Password provided
+2022-12-13 12:17:19,596 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:17:19,620 [main] INFO eCommerce - Login Passed
+2022-12-13 12:20:08,311 [main] INFO eCommerce - User provided
+2022-12-13 12:20:08,984 [main] INFO eCommerce - Password provided
+2022-12-13 12:20:09,440 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:20:09,493 [main] INFO eCommerce - Login Passed
+2022-12-13 12:20:12,403 [main] INFO eCommerce - Moved to my account element
+2022-12-13 12:20:12,619 [main] INFO eCommerce - Logout Passed
+2022-12-13 12:24:16,163 [main] INFO eCommerce - User provided
+2022-12-13 12:24:16,339 [main] INFO eCommerce - Password provided
+2022-12-13 12:24:16,461 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:24:16,506 [main] INFO eCommerce - Login Passed
+2022-12-13 12:27:08,524 [main] INFO eCommerce - User provided
+2022-12-13 12:27:08,811 [main] INFO eCommerce - Password provided
+2022-12-13 12:27:08,926 [main] INFO eCommerce - Login in Clicked
+2022-12-13 12:27:08,941 [main] INFO eCommerce - Login Passed
+2022-12-13 12:27:11,605 [main] INFO eCommerce - Moved to my account element
+2022-12-13 12:27:11,739 [main] INFO eCommerce - Logout Passed
+2022-12-13 16:58:21,244 [main] INFO eCommerce - User provided
+2022-12-13 16:58:21,377 [main] INFO eCommerce - Password provided
+2022-12-13 16:58:21,481 [main] INFO eCommerce - Login in Clicked
+2022-12-13 16:58:21,518 [main] INFO eCommerce - Login Passed
+2022-12-13 16:58:24,534 [main] INFO eCommerce - Moved to my account element
+2022-12-13 16:58:24,714 [main] INFO eCommerce - Logout Passed
+2022-12-13 17:08:40,982 [main] INFO eCommerce - User provided
+2022-12-13 17:08:41,083 [main] INFO eCommerce - Password provided
+2022-12-13 17:08:41,160 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:08:41,168 [main] INFO eCommerce - Login Passed
+2022-12-13 17:19:54,937 [main] INFO eCommerce - User provided
+2022-12-13 17:19:55,056 [main] INFO eCommerce - Password provided
+2022-12-13 17:19:55,134 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:19:55,147 [main] INFO eCommerce - Login Passed
+2022-12-13 17:22:37,227 [main] INFO eCommerce - User provided
+2022-12-13 17:22:37,413 [main] INFO eCommerce - Password provided
+2022-12-13 17:22:37,501 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:22:37,521 [main] INFO eCommerce - Login Passed
+2022-12-13 17:28:13,073 [main] INFO eCommerce - User provided
+2022-12-13 17:28:13,364 [main] INFO eCommerce - Password provided
+2022-12-13 17:28:13,497 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:28:45,161 [main] INFO eCommerce - User provided
+2022-12-13 17:28:46,510 [main] INFO eCommerce - Password provided
+2022-12-13 17:28:47,865 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:28:53,671 [main] INFO eCommerce - Login Passed
+2022-12-13 17:36:16,153 [main] INFO eCommerce - User provided
+2022-12-13 17:36:16,256 [main] INFO eCommerce - Password provided
+2022-12-13 17:36:16,340 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:37:48,692 [main] INFO eCommerce - User provided
+2022-12-13 17:37:48,804 [main] INFO eCommerce - Password provided
+2022-12-13 17:37:48,917 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:40:56,334 [main] INFO eCommerce - Login Passed
+2022-12-13 17:49:22,228 [main] INFO eCommerce - User provided
+2022-12-13 17:49:22,379 [main] INFO eCommerce - Password provided
+2022-12-13 17:49:22,457 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:49:25,365 [main] INFO eCommerce - Moved to my account element
+2022-12-13 17:49:25,483 [main] INFO eCommerce - Clicked on Logout 
+2022-12-13 17:54:08,090 [main] INFO eCommerce - User provided
+2022-12-13 17:54:08,518 [main] INFO eCommerce - Password provided
+2022-12-13 17:54:08,698 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:54:43,488 [main] INFO eCommerce - User provided
+2022-12-13 17:54:43,600 [main] INFO eCommerce - Password provided
+2022-12-13 17:54:43,674 [main] INFO eCommerce - Login in Clicked
+2022-12-13 17:54:46,137 [main] INFO eCommerce - Moved to my account element
+2022-12-13 17:54:46,254 [main] INFO eCommerce - Clicked on Logout 
+2022-12-13 17:54:48,124 [main] INFO eCommerce - Logout Passed 
+2022-12-13 17:54:48,224 [main] INFO eCommerce - Login Passed
+2022-12-13 18:00:35,149 [main] INFO eCommerce - User provided
+2022-12-13 18:00:35,259 [main] INFO eCommerce - Password provided
+2022-12-13 18:00:35,342 [main] INFO eCommerce - Login in Clicked
+2022-12-13 18:02:16,310 [main] INFO eCommerce - User provided
+2022-12-13 18:02:16,441 [main] INFO eCommerce - Password provided
+2022-12-13 18:02:16,529 [main] INFO eCommerce - Login in Clicked
+2022-12-13 18:02:19,675 [main] INFO eCommerce - Moved to my account element
+2022-12-13 18:02:19,858 [main] INFO eCommerce - Clicked on Logout 
+2022-12-13 18:02:27,321 [main] INFO eCommerce - Logout Passed 
+2022-12-13 18:02:37,327 [main] INFO eCommerce - Title Matched
+2022-12-13 18:17:06,168 [main] INFO eCommerce - User provided
+2022-12-13 18:17:06,316 [main] INFO eCommerce - Password provided
+2022-12-13 18:17:06,396 [main] INFO eCommerce - Login in Clicked
+2022-12-13 18:17:53,238 [main] INFO eCommerce - User provided
+2022-12-13 18:17:53,340 [main] INFO eCommerce - Password provided
+2022-12-13 18:17:53,415 [main] INFO eCommerce - Login in Clicked
+2022-12-13 18:17:56,678 [main] INFO eCommerce - Moved to my account element
+2022-12-13 18:17:56,802 [main] INFO eCommerce - Clicked on Logout 
+2022-12-13 18:17:58,577 [main] INFO eCommerce - Logout Passed 
+2022-12-13 18:17:58,609 [main] INFO eCommerce - Title Matched
+2022-12-13 18:23:24,205 [main] INFO eCommerce - User provided
+2022-12-13 18:23:24,339 [main] INFO eCommerce - Password provided
+2022-12-13 18:23:24,445 [main] INFO eCommerce - Login in Clicked
+2022-12-13 18:23:24,496 [main] INFO eCommerce - Title Matched
+2022-12-13 18:24:13,266 [main] INFO eCommerce - User provided
+2022-12-13 18:24:13,413 [main] INFO eCommerce - Password provided
+2022-12-13 18:24:13,524 [main] INFO eCommerce - Login in Clicked
+2022-12-13 18:24:16,754 [main] INFO eCommerce - Moved to my account element
+2022-12-13 18:24:16,938 [main] INFO eCommerce - Clicked on Logout 
+2022-12-13 18:24:19,037 [main] INFO eCommerce - Logout Passed 
+2022-12-13 19:18:25,768 [main] INFO eCommerce - User provided
+2022-12-13 19:18:25,880 [main] INFO eCommerce - Password provided
+2022-12-13 19:18:25,951 [main] INFO eCommerce - Login in Clicked
+2022-12-13 19:24:37,604 [main] INFO eCommerce - User provided
+2022-12-13 19:24:37,966 [main] INFO eCommerce - Password provided
+2022-12-13 19:24:38,090 [main] INFO eCommerce - Login in Clicked
+2022-12-13 19:45:39,443 [main] INFO eCommerce - User provided
+2022-12-13 19:45:39,541 [main] INFO eCommerce - Password provided
+2022-12-13 19:45:39,615 [main] INFO eCommerce - Login in Clicked
+2022-12-13 21:35:44,401 [main] INFO eCommerce - User provided
+2022-12-13 21:35:44,508 [main] INFO eCommerce - Password provided
+2022-12-13 21:35:44,579 [main] INFO eCommerce - Login in Clicked
+2022-12-13 21:35:44,614 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-13 21:35:44,649 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-13 21:35:44,716 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-13 21:35:44,824 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-13 21:35:44,875 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-13 21:35:44,915 [main] INFO eCommerce - Home matched to Home
+2022-12-13 21:35:44,966 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-13 21:35:45,030 [main] INFO eCommerce - Travel matched to Travel
+2022-12-13 21:47:11,442 [main] INFO eCommerce - User provided
+2022-12-13 21:47:11,547 [main] INFO eCommerce - Password provided
+2022-12-13 21:47:11,621 [main] INFO eCommerce - Login in Clicked
+2022-12-13 21:47:11,653 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-13 21:47:11,701 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-13 21:47:11,740 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-13 21:47:11,783 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-13 21:47:11,833 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-13 21:47:11,873 [main] INFO eCommerce - Home matched to Home
+2022-12-13 21:47:11,915 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-13 21:47:11,947 [main] INFO eCommerce - Travel matched to Travel
+2022-12-13 21:47:11,984 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-13 21:47:12,015 [main] INFO eCommerce - Beauty, Toys & More matched to Beauty, Toys & More
+2022-12-13 21:47:12,064 [main] INFO eCommerce - Two Wheelers matched to Two Wheelers
+2022-12-13 21:47:12,064 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-13 22:39:54,133 [main] INFO eCommerce - User provided
+2022-12-13 22:39:54,238 [main] INFO eCommerce - Password provided
+2022-12-13 22:39:54,324 [main] INFO eCommerce - Login in Clicked
+2022-12-13 22:39:54,379 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-13 22:39:54,438 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-13 22:39:54,489 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-13 22:39:54,546 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-13 22:39:54,593 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-13 22:39:54,678 [main] INFO eCommerce - Home matched to Home
+2022-12-13 22:39:54,709 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-13 22:39:54,738 [main] INFO eCommerce - Travel matched to Travel
+2022-12-13 22:39:54,809 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-13 22:39:54,855 [main] INFO eCommerce - Beauty, Toys & More matched to Beauty, Toys & More
+2022-12-13 22:39:54,895 [main] INFO eCommerce - Two Wheelers matched to Two Wheelers
+2022-12-13 22:39:54,896 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-13 23:04:35,123 [main] INFO eCommerce - User provided
+2022-12-13 23:07:28,146 [main] INFO eCommerce - User provided
+2022-12-13 23:07:28,335 [main] INFO eCommerce - Password provided
+2022-12-13 23:07:28,448 [main] INFO eCommerce - Login in Clicked
+2022-12-13 23:07:28,479 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-13 23:07:28,509 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-13 23:07:28,540 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-13 23:07:28,575 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-13 23:07:28,612 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-13 23:07:28,659 [main] INFO eCommerce - Home matched to Home
+2022-12-13 23:07:28,705 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-13 23:07:28,744 [main] INFO eCommerce - Travel matched to Travel
+2022-12-13 23:07:28,792 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-13 23:07:28,843 [main] INFO eCommerce - Beauty, Toys & More matched to Beauty, Toys & More
+2022-12-13 23:07:28,909 [main] INFO eCommerce - Two Wheelers matched to Two Wheelers
+2022-12-13 23:07:28,910 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-14 11:02:37,997 [main] INFO eCommerce - User provided
+2022-12-14 11:02:38,267 [main] INFO eCommerce - Password provided
+2022-12-14 11:02:38,385 [main] INFO eCommerce - Login in Clicked
+2022-12-14 11:02:38,448 [main] INFO eCommerce - Title Matched
+2022-12-14 11:04:05,525 [main] INFO eCommerce - User provided
+2022-12-14 11:04:05,659 [main] INFO eCommerce - Password provided
+2022-12-14 11:04:05,742 [main] INFO eCommerce - Login in Clicked
+2022-12-14 11:04:08,272 [main] INFO eCommerce - Moved to my account element
+2022-12-14 11:04:08,399 [main] INFO eCommerce - Clicked on Logout 
+2022-12-14 11:04:10,322 [main] INFO eCommerce - Logout Passed 
+2022-12-14 11:04:57,088 [main] INFO eCommerce - User provided
+2022-12-14 11:04:57,193 [main] INFO eCommerce - Password provided
+2022-12-14 11:04:57,270 [main] INFO eCommerce - Login in Clicked
+2022-12-14 11:04:57,292 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-14 11:04:57,323 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-14 11:04:57,365 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-14 11:04:57,406 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-14 11:04:57,441 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-14 11:04:57,496 [main] INFO eCommerce - Home matched to Home
+2022-12-14 11:04:57,532 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-14 11:04:57,570 [main] INFO eCommerce - Travel matched to Travel
+2022-12-14 11:04:57,604 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-14 11:04:57,659 [main] INFO eCommerce - Beauty, Toys & More matched to Beauty, Toys & More
+2022-12-14 11:04:57,723 [main] INFO eCommerce - Two Wheelers matched to Two Wheelers
+2022-12-14 11:04:57,723 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-14 11:09:11,602 [main] INFO eCommerce - User provided
+2022-12-14 11:09:11,811 [main] INFO eCommerce - Password provided
+2022-12-14 11:09:11,921 [main] INFO eCommerce - Login in Clicked
+2022-12-14 11:09:11,967 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-14 11:09:12,003 [main] INFO eCommerce - Item didn't matched
+2022-12-14 11:09:12,054 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-14 11:09:12,107 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-14 11:09:12,180 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-14 11:09:12,244 [main] INFO eCommerce - Home matched to Home
+2022-12-14 11:09:12,292 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-14 11:09:12,350 [main] INFO eCommerce - Travel matched to Travel
+2022-12-14 11:09:12,401 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-14 11:11:22,102 [main] INFO eCommerce - User provided
+2022-12-14 11:11:22,242 [main] INFO eCommerce - Password provided
+2022-12-14 11:11:22,339 [main] INFO eCommerce - Login in Clicked
+2022-12-14 11:11:22,390 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-14 11:11:22,427 [main] INFO eCommerce - Item didn't matched
+2022-12-14 11:11:22,471 [main] INFO eCommerce - Mobiles matched to Mobiles
+2022-12-14 11:11:22,548 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-14 11:11:22,620 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-14 11:11:22,688 [main] INFO eCommerce - Home matched to Home
+2022-12-14 11:11:22,757 [main] INFO eCommerce - Appliances matched to Appliances
+2022-12-14 11:11:22,810 [main] INFO eCommerce - Travel matched to Travel
+2022-12-14 11:11:22,872 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-14 11:11:22,940 [main] INFO eCommerce - Beauty, Toys & More matched to Beauty, Toys & More
+2022-12-14 11:11:23,039 [main] INFO eCommerce - Two Wheelers matched to Two Wheelers
+2022-12-14 11:11:23,040 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-14 11:15:19,330 [main] INFO eCommerce - User provided
+2022-12-14 11:15:19,492 [main] INFO eCommerce - Password provided
+2022-12-14 11:15:19,590 [main] INFO eCommerce - Login in Clicked
+2022-12-14 12:46:46,082 [main] INFO eCommerce - User provided
+2022-12-14 12:46:46,229 [main] INFO eCommerce - Password provided
+2022-12-14 12:46:46,327 [main] INFO eCommerce - Login in Clicked
+2022-12-14 12:46:46,599 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 12:46:58,426 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 12:49:03,286 [main] INFO eCommerce - User provided
+2022-12-14 12:49:03,423 [main] INFO eCommerce - Password provided
+2022-12-14 12:49:03,531 [main] INFO eCommerce - Login in Clicked
+2022-12-14 12:49:03,676 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 12:49:13,721 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 12:52:46,047 [main] INFO eCommerce - User provided
+2022-12-14 12:52:46,281 [main] INFO eCommerce - Password provided
+2022-12-14 12:52:46,405 [main] INFO eCommerce - Login in Clicked
+2022-12-14 12:52:46,669 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 12:52:58,737 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 12:57:27,124 [main] INFO eCommerce - User provided
+2022-12-14 12:57:27,300 [main] INFO eCommerce - Password provided
+2022-12-14 12:57:27,403 [main] INFO eCommerce - Login in Clicked
+2022-12-14 12:57:27,613 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 12:57:41,660 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 13:00:27,567 [main] INFO eCommerce - User provided
+2022-12-14 13:00:27,703 [main] INFO eCommerce - Password provided
+2022-12-14 13:00:27,800 [main] INFO eCommerce - Login in Clicked
+2022-12-14 13:00:27,972 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 13:00:42,035 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 13:13:05,008 [main] INFO eCommerce - User provided
+2022-12-14 13:13:05,186 [main] INFO eCommerce - Password provided
+2022-12-14 13:13:05,288 [main] INFO eCommerce - Login in Clicked
+2022-12-14 13:13:05,536 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 13:13:11,833 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 13:13:13,982 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 13:13:16,637 [main] INFO eCommerce - Moved to child Window
+2022-12-14 13:16:47,564 [main] INFO eCommerce - User provided
+2022-12-14 13:16:47,717 [main] INFO eCommerce - Password provided
+2022-12-14 13:16:47,824 [main] INFO eCommerce - Login in Clicked
+2022-12-14 13:16:48,040 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 13:16:54,631 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 13:16:56,901 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 13:16:58,776 [main] INFO eCommerce - Moved to child Window
+2022-12-14 13:25:25,820 [main] INFO eCommerce - User provided
+2022-12-14 13:25:26,012 [main] INFO eCommerce - Password provided
+2022-12-14 13:25:26,290 [main] INFO eCommerce - Login in Clicked
+2022-12-14 13:25:26,627 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 13:25:33,224 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 13:25:35,408 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 13:25:37,476 [main] INFO eCommerce - Moved to child Window
+2022-12-14 13:26:47,853 [main] INFO eCommerce - User provided
+2022-12-14 13:26:48,041 [main] INFO eCommerce - Password provided
+2022-12-14 13:26:48,128 [main] INFO eCommerce - Login in Clicked
+2022-12-14 13:26:48,339 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 13:26:54,745 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 13:26:56,986 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 13:26:59,052 [main] INFO eCommerce - Moved to child Window
+2022-12-14 13:30:51,929 [main] INFO eCommerce - User provided
+2022-12-14 13:30:52,063 [main] INFO eCommerce - Password provided
+2022-12-14 13:30:52,150 [main] INFO eCommerce - Login in Clicked
+2022-12-14 13:30:52,358 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 13:30:58,724 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 13:31:00,871 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 13:31:02,908 [main] INFO eCommerce - Moved to child Window
+2022-12-14 13:31:05,119 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 14:02:08,829 [main] INFO eCommerce - User provided
+2022-12-14 14:02:08,943 [main] INFO eCommerce - Password provided
+2022-12-14 14:02:09,024 [main] INFO eCommerce - Login in Clicked
+2022-12-14 14:02:09,232 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 14:02:15,554 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 14:02:17,721 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 14:02:20,458 [main] INFO eCommerce - Moved to child Window
+2022-12-14 14:03:09,628 [main] INFO eCommerce - User provided
+2022-12-14 14:03:09,838 [main] INFO eCommerce - Password provided
+2022-12-14 14:03:10,215 [main] INFO eCommerce - Login in Clicked
+2022-12-14 14:04:41,440 [main] INFO eCommerce - User provided
+2022-12-14 14:04:41,566 [main] INFO eCommerce - Password provided
+2022-12-14 14:04:41,645 [main] INFO eCommerce - Login in Clicked
+2022-12-14 14:04:41,842 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 14:04:48,221 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 14:04:50,431 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 14:04:52,308 [main] INFO eCommerce - Moved to child Window
+2022-12-14 14:04:54,542 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 14:04:56,651 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-14 14:11:30,551 [main] INFO eCommerce - User provided
+2022-12-14 14:11:30,681 [main] INFO eCommerce - Password provided
+2022-12-14 14:11:30,770 [main] INFO eCommerce - Login in Clicked
+2022-12-14 14:11:30,961 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 14:11:37,546 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 14:11:39,758 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 14:11:41,788 [main] INFO eCommerce - Moved to child Window
+2022-12-14 14:11:43,952 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 17:36:23,105 [main] INFO eCommerce - User provided
+2022-12-14 17:36:23,573 [main] INFO eCommerce - Password provided
+2022-12-14 17:36:23,901 [main] INFO eCommerce - Login in Clicked
+2022-12-14 17:36:24,132 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 17:36:30,398 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 17:36:32,575 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 17:36:34,381 [main] INFO eCommerce - Moved to child Window
+2022-12-14 17:36:36,505 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 17:36:38,595 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-14 17:53:48,257 [main] INFO eCommerce - User provided
+2022-12-14 17:53:48,383 [main] INFO eCommerce - Password provided
+2022-12-14 17:53:48,454 [main] INFO eCommerce - Login in Clicked
+2022-12-14 17:53:48,622 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 17:53:54,888 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 17:53:57,050 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 17:53:58,818 [main] INFO eCommerce - Moved to child Window
+2022-12-14 17:54:00,953 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 17:54:03,029 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-14 18:01:02,539 [main] INFO eCommerce - User provided
+2022-12-14 18:01:03,050 [main] INFO eCommerce - Password provided
+2022-12-14 18:01:03,306 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:01:03,492 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:01:09,814 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 18:01:11,982 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 18:01:14,291 [main] INFO eCommerce - Moved to child Window
+2022-12-14 18:01:16,427 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 18:01:19,026 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-14 18:20:27,543 [main] INFO eCommerce - User provided
+2022-12-14 18:20:27,648 [main] INFO eCommerce - Password provided
+2022-12-14 18:20:27,724 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:20:27,888 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:20:32,223 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 18:22:01,834 [main] INFO eCommerce - User provided
+2022-12-14 18:22:01,933 [main] INFO eCommerce - Password provided
+2022-12-14 18:22:02,023 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:22:02,200 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:22:06,584 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 18:26:15,112 [main] INFO eCommerce - User provided
+2022-12-14 18:26:15,213 [main] INFO eCommerce - Password provided
+2022-12-14 18:26:15,292 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:26:15,460 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:26:19,795 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 18:35:25,065 [main] INFO eCommerce - User provided
+2022-12-14 18:35:25,162 [main] INFO eCommerce - Password provided
+2022-12-14 18:35:25,231 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:35:25,413 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:35:29,687 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 18:35:30,373 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 18:35:32,438 [main] INFO eCommerce - Moved to child Window
+2022-12-14 18:35:32,580 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 18:35:33,423 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-14 18:40:23,407 [main] INFO eCommerce - User provided
+2022-12-14 18:40:23,890 [main] INFO eCommerce - Password provided
+2022-12-14 18:40:24,145 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:40:24,332 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:40:39,395 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 18:43:02,941 [main] INFO eCommerce - User provided
+2022-12-14 18:43:03,073 [main] INFO eCommerce - Password provided
+2022-12-14 18:43:03,170 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:43:03,294 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:43:18,371 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 18:49:25,373 [main] INFO eCommerce - User provided
+2022-12-14 18:49:25,491 [main] INFO eCommerce - Password provided
+2022-12-14 18:49:25,588 [main] INFO eCommerce - Login in Clicked
+2022-12-14 18:49:25,836 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 18:49:40,921 [main] INFO eCommerce - Saved names of all Egg Boiler in list
+2022-12-14 22:44:40,285 [main] INFO eCommerce - User provided
+2022-12-14 22:44:40,435 [main] INFO eCommerce - Password provided
+2022-12-14 22:44:40,540 [main] INFO eCommerce - Login in Clicked
+2022-12-14 22:44:43,880 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 22:44:44,331 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-14 22:44:45,043 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-14 22:44:46,927 [main] INFO eCommerce - Moved to child Window
+2022-12-14 22:44:47,068 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-14 22:44:47,880 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-14 22:57:29,414 [main] INFO eCommerce - User provided
+2022-12-14 22:57:29,932 [main] INFO eCommerce - Password provided
+2022-12-14 22:57:30,209 [main] INFO eCommerce - Login in Clicked
+2022-12-14 22:58:26,697 [main] INFO eCommerce - User provided
+2022-12-14 22:58:26,933 [main] INFO eCommerce - Password provided
+2022-12-14 22:58:27,036 [main] INFO eCommerce - Login in Clicked
+2022-12-14 22:58:29,130 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 22:59:44,375 [main] INFO eCommerce - User provided
+2022-12-14 22:59:44,619 [main] INFO eCommerce - Password provided
+2022-12-14 22:59:44,985 [main] INFO eCommerce - Login in Clicked
+2022-12-14 23:02:27,996 [main] INFO eCommerce - User provided
+2022-12-14 23:02:28,228 [main] INFO eCommerce - Password provided
+2022-12-14 23:02:28,347 [main] INFO eCommerce - Login in Clicked
+2022-12-14 23:02:28,716 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 23:03:52,603 [main] INFO eCommerce - User provided
+2022-12-14 23:03:52,754 [main] INFO eCommerce - Password provided
+2022-12-14 23:03:52,867 [main] INFO eCommerce - Login in Clicked
+2022-12-14 23:03:55,040 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 23:05:58,796 [main] INFO eCommerce - User provided
+2022-12-14 23:05:59,053 [main] INFO eCommerce - Password provided
+2022-12-14 23:05:59,218 [main] INFO eCommerce - Login in Clicked
+2022-12-14 23:06:01,561 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-14 23:09:29,207 [main] INFO eCommerce - User provided
+2022-12-14 23:09:29,745 [main] INFO eCommerce - Password provided
+2022-12-14 23:09:29,997 [main] INFO eCommerce - Login in Clicked
+2022-12-14 23:09:30,276 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 10:29:56,846 [main] INFO eCommerce - User provided
+2022-12-15 10:29:56,991 [main] INFO eCommerce - Password provided
+2022-12-15 10:29:57,091 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:29:57,428 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 10:32:39,686 [main] INFO eCommerce - User provided
+2022-12-15 10:32:39,814 [main] INFO eCommerce - Password provided
+2022-12-15 10:32:39,889 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:32:40,148 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 10:47:05,153 [main] INFO eCommerce - User provided
+2022-12-15 10:47:05,303 [main] INFO eCommerce - Password provided
+2022-12-15 10:47:05,413 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:49:37,457 [main] INFO eCommerce - User provided
+2022-12-15 10:49:37,621 [main] INFO eCommerce - Password provided
+2022-12-15 10:49:37,708 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:49:37,986 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 10:53:36,581 [main] INFO eCommerce - User provided
+2022-12-15 10:53:36,709 [main] INFO eCommerce - Password provided
+2022-12-15 10:53:36,796 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:53:37,050 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 10:55:09,419 [main] INFO eCommerce - User provided
+2022-12-15 10:55:09,576 [main] INFO eCommerce - Password provided
+2022-12-15 10:55:09,670 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:55:12,871 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 10:55:13,251 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-15 10:58:50,059 [main] INFO eCommerce - User provided
+2022-12-15 10:58:50,594 [main] INFO eCommerce - Password provided
+2022-12-15 10:58:50,813 [main] INFO eCommerce - Login in Clicked
+2022-12-15 10:58:51,152 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 11:04:27,792 [main] INFO eCommerce - User provided
+2022-12-15 11:04:27,918 [main] INFO eCommerce - Password provided
+2022-12-15 11:04:28,013 [main] INFO eCommerce - Login in Clicked
+2022-12-15 11:04:28,317 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 11:07:55,201 [main] INFO eCommerce - User provided
+2022-12-15 11:07:55,315 [main] INFO eCommerce - Password provided
+2022-12-15 11:07:55,413 [main] INFO eCommerce - Login in Clicked
+2022-12-15 11:07:55,674 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 11:20:13,937 [main] INFO eCommerce - User provided
+2022-12-15 11:20:14,090 [main] INFO eCommerce - Password provided
+2022-12-15 11:20:14,217 [main] INFO eCommerce - Login in Clicked
+2022-12-15 11:20:16,552 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 11:20:21,580 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-15 11:26:15,319 [main] INFO eCommerce - User provided
+2022-12-15 11:26:15,536 [main] INFO eCommerce - Password provided
+2022-12-15 11:26:15,689 [main] INFO eCommerce - Login in Clicked
+2022-12-15 11:26:16,147 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-15 11:26:19,658 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-15 11:26:20,387 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-15 11:26:22,633 [main] INFO eCommerce - Moved to child Window
+2022-12-15 11:26:22,816 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-15 11:26:23,810 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-15 11:26:23,936 [main] INFO eCommerce - Item removed from Cart
+2022-12-15 12:44:57,626 [main] INFO eCommerce - User provided
+2022-12-15 12:44:58,060 [main] INFO eCommerce - Password provided
+2022-12-15 12:44:58,363 [main] INFO eCommerce - Login in Clicked
+2022-12-15 12:45:00,908 [main] INFO eCommerce - Moved to my account element
+2022-12-15 12:45:01,041 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-15 13:00:33,033 [main] INFO eCommerce - User provided
+2022-12-15 13:00:33,157 [main] INFO eCommerce - Password provided
+2022-12-15 13:00:33,234 [main] INFO eCommerce - Login in Clicked
+2022-12-15 13:00:35,634 [main] INFO eCommerce - Moved to my account element
+2022-12-15 13:00:35,763 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-15 13:00:37,614 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-15 13:04:23,306 [main] INFO eCommerce - User provided
+2022-12-15 13:04:23,454 [main] INFO eCommerce - Password provided
+2022-12-15 13:04:23,530 [main] INFO eCommerce - Login in Clicked
+2022-12-15 13:04:26,280 [main] INFO eCommerce - Moved to my account element
+2022-12-15 13:04:26,434 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-15 13:04:28,945 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-15 13:07:34,111 [main] INFO eCommerce - User provided
+2022-12-15 13:07:34,552 [main] INFO eCommerce - Password provided
+2022-12-15 13:07:34,749 [main] INFO eCommerce - Login in Clicked
+2022-12-15 13:07:38,069 [main] INFO eCommerce - Moved to my account element
+2022-12-15 13:07:38,209 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-15 13:07:40,130 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-15 13:20:20,813 [main] INFO eCommerce - User provided
+2022-12-15 13:20:20,902 [main] INFO eCommerce - Password provided
+2022-12-15 13:20:20,976 [main] INFO eCommerce - Login in Clicked
+2022-12-15 13:20:24,102 [main] INFO eCommerce - Moved to my account element
+2022-12-15 13:20:24,232 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-15 13:20:26,433 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-15 13:20:26,816 [main] INFO eCommerce - DebitedCoinssum is -122
+2022-12-15 13:20:26,917 [main] INFO eCommerce - CreditedSuperCoins is 74
+2022-12-15 16:37:30,810 [main] INFO eCommerce - User provided
+2022-12-15 16:37:30,940 [main] INFO eCommerce - Password provided
+2022-12-15 16:37:31,022 [main] INFO eCommerce - Login in Clicked
+2022-12-15 16:37:33,473 [main] INFO eCommerce - Moved to my account element
+2022-12-15 16:37:33,635 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-15 16:37:35,484 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-15 16:37:35,900 [main] INFO eCommerce - DebitedCoinssum is -122
+2022-12-15 16:37:36,025 [main] INFO eCommerce - CreditedSuperCoins is 74
+2022-12-15 17:00:41,338 [main] INFO eCommerce - User provided
+2022-12-15 17:00:41,626 [main] INFO eCommerce - Password provided
+2022-12-15 17:00:41,774 [main] INFO eCommerce - Login in Clicked
+2022-12-15 17:00:44,636 [main] INFO eCommerce - Moved to my account element
+2022-12-15 17:00:44,803 [main] INFO eCommerce - Clicked on Orders
+2022-12-15 17:00:45,508 [main] INFO eCommerce - Total Orders are10
+2022-12-15 17:00:45,761 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-15 17:00:45,785 [main] INFO eCommerce - Orders are HRX by Hrithik Roshan Solid Men Grey Tra...
+2022-12-15 17:00:45,805 [main] INFO eCommerce - Orders are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-15 17:00:45,823 [main] INFO eCommerce - Orders are realme Buds Air Neo Bluetooth Headset
+2022-12-15 17:00:45,841 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-15 17:00:45,858 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-15 17:00:45,874 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-15 17:00:45,893 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-15 17:00:45,919 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-15 17:00:45,939 [main] INFO eCommerce - Orders are Rich Dad Poor Dad
+2022-12-15 17:04:15,417 [main] INFO eCommerce - User provided
+2022-12-15 17:04:16,089 [main] INFO eCommerce - Password provided
+2022-12-15 17:04:16,315 [main] INFO eCommerce - Login in Clicked
+2022-12-15 17:04:18,967 [main] INFO eCommerce - Moved to my account element
+2022-12-15 17:04:19,108 [main] INFO eCommerce - Clicked on Orders
+2022-12-15 17:04:19,821 [main] INFO eCommerce - Total Orders are10
+2022-12-15 17:15:58,905 [main] INFO eCommerce - User provided
+2022-12-15 17:15:59,188 [main] INFO eCommerce - Password provided
+2022-12-15 17:15:59,301 [main] INFO eCommerce - Login in Clicked
+2022-12-15 17:16:02,166 [main] INFO eCommerce - Moved to my account element
+2022-12-15 17:16:02,298 [main] INFO eCommerce - Clicked on Orders
+2022-12-15 17:16:06,366 [main] INFO eCommerce - Total Orders are 10
+2022-12-15 17:16:06,402 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-15 17:16:06,428 [main] INFO eCommerce - Orders are HRX by Hrithik Roshan Solid Men Grey Tra...
+2022-12-15 17:16:06,455 [main] INFO eCommerce - Orders are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-15 17:16:06,481 [main] INFO eCommerce - Orders are realme Buds Air Neo Bluetooth Headset
+2022-12-15 17:16:06,510 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-15 17:16:06,540 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-15 17:16:06,560 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-15 17:16:06,585 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-15 17:16:06,605 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-15 17:16:06,642 [main] INFO eCommerce - Orders are Rich Dad Poor Dad
+2022-12-15 17:43:52,716 [main] INFO eCommerce - User provided
+2022-12-15 17:43:53,121 [main] INFO eCommerce - Password provided
+2022-12-15 17:43:53,393 [main] INFO eCommerce - Login in Clicked
+2022-12-15 17:45:51,221 [main] INFO eCommerce - User provided
+2022-12-15 17:45:51,365 [main] INFO eCommerce - Password provided
+2022-12-15 17:45:51,442 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:21:30,263 [main] INFO eCommerce - User provided
+2022-12-16 12:21:30,510 [main] INFO eCommerce - Password provided
+2022-12-16 12:21:30,664 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:28:39,558 [main] INFO eCommerce - User provided
+2022-12-16 12:28:39,676 [main] INFO eCommerce - Password provided
+2022-12-16 12:28:39,752 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:31:59,569 [main] INFO eCommerce - User provided
+2022-12-16 12:31:59,672 [main] INFO eCommerce - Password provided
+2022-12-16 12:31:59,740 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:31:59,756 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 12:32:09,800 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 12:32:09,801 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 12:37:03,126 [main] INFO eCommerce - User provided
+2022-12-16 12:37:03,248 [main] INFO eCommerce - Password provided
+2022-12-16 12:37:03,344 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:37:03,363 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 12:37:13,383 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 12:37:13,383 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 12:40:40,203 [main] INFO eCommerce - User provided
+2022-12-16 12:40:40,324 [main] INFO eCommerce - Password provided
+2022-12-16 12:40:40,403 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:40:40,421 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 12:40:50,450 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 12:40:50,450 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 12:43:35,558 [main] INFO eCommerce - User provided
+2022-12-16 12:43:35,661 [main] INFO eCommerce - Password provided
+2022-12-16 12:43:35,739 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:43:40,766 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 12:43:50,841 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 12:43:50,841 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 12:46:45,974 [main] INFO eCommerce - User provided
+2022-12-16 12:46:46,085 [main] INFO eCommerce - Password provided
+2022-12-16 12:46:46,178 [main] INFO eCommerce - Login in Clicked
+2022-12-16 12:46:51,212 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 12:47:01,291 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 12:47:01,292 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 12:50:16,303 [main] INFO eCommerce - User provided
+2022-12-16 12:50:16,446 [main] INFO eCommerce - Password provided
+2022-12-16 12:50:16,548 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:08:10,064 [main] INFO eCommerce - User provided
+2022-12-16 13:08:10,176 [main] INFO eCommerce - Password provided
+2022-12-16 13:08:10,243 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:08:15,436 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:08:25,542 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:08:25,544 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:12:04,265 [main] INFO eCommerce - User provided
+2022-12-16 13:12:04,427 [main] INFO eCommerce - Password provided
+2022-12-16 13:12:04,528 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:13:30,830 [main] INFO eCommerce - User provided
+2022-12-16 13:13:31,203 [main] INFO eCommerce - Password provided
+2022-12-16 13:13:31,396 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:16:55,840 [main] INFO eCommerce - User provided
+2022-12-16 13:16:55,953 [main] INFO eCommerce - Password provided
+2022-12-16 13:16:56,024 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:17:01,172 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:17:11,253 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:17:11,254 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:20:49,514 [main] INFO eCommerce - User provided
+2022-12-16 13:20:49,648 [main] INFO eCommerce - Password provided
+2022-12-16 13:20:49,725 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:20:54,806 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:21:04,881 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:21:04,883 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:25:02,506 [main] INFO eCommerce - User provided
+2022-12-16 13:25:02,656 [main] INFO eCommerce - Password provided
+2022-12-16 13:25:02,776 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:25:07,964 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:25:18,028 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:25:18,029 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:27:10,796 [main] INFO eCommerce - User provided
+2022-12-16 13:27:10,897 [main] INFO eCommerce - Password provided
+2022-12-16 13:27:10,975 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:28:01,149 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:28:01,489 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:28:01,490 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-16 13:35:06,850 [main] INFO eCommerce - User provided
+2022-12-16 13:35:06,958 [main] INFO eCommerce - Password provided
+2022-12-16 13:35:07,043 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:40:14,087 [main] INFO eCommerce - User provided
+2022-12-16 13:40:14,185 [main] INFO eCommerce - Password provided
+2022-12-16 13:40:14,257 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:40:40,409 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:40:50,434 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:40:50,435 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:42:39,426 [main] INFO eCommerce - User provided
+2022-12-16 13:42:39,533 [main] INFO eCommerce - Password provided
+2022-12-16 13:42:39,614 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:43:05,779 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:43:15,855 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:43:15,856 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:44:41,813 [main] INFO eCommerce - User provided
+2022-12-16 13:44:41,957 [main] INFO eCommerce - Password provided
+2022-12-16 13:44:42,050 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:45:23,268 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:45:33,287 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:45:33,288 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 13:47:01,206 [main] INFO eCommerce - User provided
+2022-12-16 13:47:01,336 [main] INFO eCommerce - Password provided
+2022-12-16 13:47:01,428 [main] INFO eCommerce - Login in Clicked
+2022-12-16 13:47:42,616 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 13:47:42,748 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 13:47:42,813 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 13:47:42,851 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 13:47:42,888 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 13:47:42,931 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-16 13:47:42,970 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-16 13:47:43,015 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-16 13:47:43,055 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-16 13:47:43,091 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-16 13:47:43,125 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 13:47:43,164 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-16 13:47:43,202 [main] INFO eCommerce - Element are NEUTROGENA Ultra Sheer Sunblock Cream - SPF 50 PA+++
+2022-12-16 13:47:43,204 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 13:47:43,205 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-16 14:11:48,980 [main] INFO eCommerce - User provided
+2022-12-16 14:11:49,081 [main] INFO eCommerce - Password provided
+2022-12-16 14:11:49,158 [main] INFO eCommerce - Login in Clicked
+2022-12-16 14:12:30,401 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 14:12:30,571 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:12:30,628 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:12:30,658 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:12:30,685 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:12:30,718 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-16 14:12:30,743 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-16 14:12:30,770 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-16 14:12:30,795 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-16 14:12:30,823 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-16 14:12:30,851 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:12:30,877 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-16 14:12:30,910 [main] INFO eCommerce - Element are NEUTROGENA Ultra Sheer Sunblock Cream - SPF 50 PA+++
+2022-12-16 14:12:30,912 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 14:12:30,912 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-16 14:29:48,801 [main] INFO eCommerce - User provided
+2022-12-16 14:29:49,050 [main] INFO eCommerce - Password provided
+2022-12-16 14:29:49,235 [main] INFO eCommerce - Login in Clicked
+2022-12-16 14:30:30,467 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 14:30:30,693 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:30:30,746 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:30:30,813 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:30:30,852 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:30:30,914 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-16 14:30:30,966 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-16 14:30:31,008 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-16 14:30:31,049 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-16 14:30:31,097 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-16 14:30:31,137 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:30:31,183 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-16 14:30:31,228 [main] INFO eCommerce - Element are NEUTROGENA Ultra Sheer Sunblock Cream - SPF 50 PA+++
+2022-12-16 14:30:31,230 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 14:30:31,231 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-16 14:32:04,693 [main] INFO eCommerce - User provided
+2022-12-16 14:32:04,888 [main] INFO eCommerce - Password provided
+2022-12-16 14:32:05,009 [main] INFO eCommerce - Login in Clicked
+2022-12-16 14:32:40,167 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 14:32:50,207 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 14:32:50,208 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 14:34:50,327 [main] INFO eCommerce - User provided
+2022-12-16 14:34:50,435 [main] INFO eCommerce - Password provided
+2022-12-16 14:34:50,520 [main] INFO eCommerce - Login in Clicked
+2022-12-16 14:35:25,763 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 14:35:26,060 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:35:26,111 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:35:26,159 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:35:26,202 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:35:26,255 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-16 14:35:26,294 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-16 14:35:26,338 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-16 14:35:26,385 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-16 14:35:26,429 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-16 14:35:26,480 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-16 14:35:26,523 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-16 14:35:26,570 [main] INFO eCommerce - Element are NEUTROGENA Ultra Sheer Sunblock Cream - SPF 50 PA+++
+2022-12-16 14:35:26,573 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 14:35:26,574 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-16 14:35:26,681 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-16 14:35:26,748 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-16 14:36:53,000 [main] INFO eCommerce - User provided
+2022-12-16 14:36:53,195 [main] INFO eCommerce - Password provided
+2022-12-16 14:36:53,316 [main] INFO eCommerce - Login in Clicked
+2022-12-16 14:36:58,391 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 14:37:08,498 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 14:37:08,503 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-16 14:38:29,697 [main] INFO eCommerce - User provided
+2022-12-16 14:38:29,861 [main] INFO eCommerce - Password provided
+2022-12-16 14:38:29,981 [main] INFO eCommerce - Login in Clicked
+2022-12-16 14:38:45,140 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-16 14:38:55,215 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-16 14:38:55,217 [main] INFO eCommerce - No. of items in recently viewed element list are : 0
+2022-12-17 11:29:00,836 [main] INFO eCommerce - User provided
+2022-12-17 11:29:00,968 [main] INFO eCommerce - Password provided
+2022-12-17 11:29:01,051 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:29:01,146 [main] INFO eCommerce - Title Matched
+2022-12-17 11:29:47,743 [main] INFO eCommerce - User provided
+2022-12-17 11:29:47,843 [main] INFO eCommerce - Password provided
+2022-12-17 11:29:47,922 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:29:50,241 [main] INFO eCommerce - Moved to my account element
+2022-12-17 11:29:50,357 [main] INFO eCommerce - Clicked on Logout 
+2022-12-17 11:29:51,832 [main] INFO eCommerce - Logout Passed 
+2022-12-17 11:30:37,571 [main] INFO eCommerce - User provided
+2022-12-17 11:30:37,698 [main] INFO eCommerce - Password provided
+2022-12-17 11:30:37,791 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:31:25,525 [main] INFO eCommerce - User provided
+2022-12-17 11:31:25,663 [main] INFO eCommerce - Password provided
+2022-12-17 11:31:25,735 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:31:25,987 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-17 11:31:29,396 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-17 11:32:17,075 [main] INFO eCommerce - User provided
+2022-12-17 11:32:17,214 [main] INFO eCommerce - Password provided
+2022-12-17 11:32:17,299 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:32:19,748 [main] INFO eCommerce - Moved to my account element
+2022-12-17 11:32:19,916 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-17 11:32:22,033 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-17 11:32:22,399 [main] INFO eCommerce - DebitedCoinssum is -122
+2022-12-17 11:32:22,519 [main] INFO eCommerce - CreditedSuperCoins is 74
+2022-12-17 11:33:05,810 [main] INFO eCommerce - User provided
+2022-12-17 11:33:05,915 [main] INFO eCommerce - Password provided
+2022-12-17 11:33:06,033 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:33:08,280 [main] INFO eCommerce - Moved to my account element
+2022-12-17 11:33:08,464 [main] INFO eCommerce - Clicked on Orders
+2022-12-17 11:33:12,574 [main] INFO eCommerce - Total Orders are 10
+2022-12-17 11:33:12,624 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:33:12,645 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:33:12,668 [main] INFO eCommerce - Orders are HRX by Hrithik Roshan Solid Men Grey Tra...
+2022-12-17 11:33:12,693 [main] INFO eCommerce - Orders are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-17 11:33:12,720 [main] INFO eCommerce - Orders are realme Buds Air Neo Bluetooth Headset
+2022-12-17 11:33:12,744 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 11:33:12,769 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 11:33:12,797 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 11:33:12,823 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-17 11:33:12,850 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-17 11:33:13,578 [main] INFO eCommerce - Price of Rich Dad Poor Dad is: ?290
+2022-12-17 11:33:39,267 [main] INFO eCommerce - User provided
+2022-12-17 11:33:40,538 [main] INFO eCommerce - Password provided
+2022-12-17 11:33:40,917 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:34:16,170 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-17 11:34:16,302 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:34:16,358 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:34:16,447 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:34:16,530 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:34:16,598 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-17 11:34:16,645 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-17 11:34:16,695 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-17 11:34:16,743 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-17 11:34:16,788 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-17 11:34:16,830 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:34:16,883 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-17 11:34:16,924 [main] INFO eCommerce - Element are NEUTROGENA Ultra Sheer Sunblock Cream - SPF 50 PA+++
+2022-12-17 11:34:16,924 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-17 11:34:16,925 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-17 11:34:17,038 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 11:34:17,102 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 11:34:17,168 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 11:40:22,703 [main] INFO eCommerce - User provided
+2022-12-17 11:40:22,834 [main] INFO eCommerce - Password provided
+2022-12-17 11:40:22,907 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:40:22,953 [main] INFO eCommerce - Title Matched
+2022-12-17 11:41:08,700 [main] INFO eCommerce - User provided
+2022-12-17 11:41:08,793 [main] INFO eCommerce - Password provided
+2022-12-17 11:41:08,858 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:41:11,135 [main] INFO eCommerce - Moved to my account element
+2022-12-17 11:41:11,252 [main] INFO eCommerce - Clicked on Logout 
+2022-12-17 11:41:12,950 [main] INFO eCommerce - Logout Passed 
+2022-12-17 11:41:59,733 [main] INFO eCommerce - User provided
+2022-12-17 11:41:59,822 [main] INFO eCommerce - Password provided
+2022-12-17 11:41:59,899 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:42:46,105 [main] INFO eCommerce - User provided
+2022-12-17 11:42:46,202 [main] INFO eCommerce - Password provided
+2022-12-17 11:42:46,281 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:42:46,476 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-17 11:43:34,964 [main] INFO eCommerce - User provided
+2022-12-17 11:43:35,061 [main] INFO eCommerce - Password provided
+2022-12-17 11:43:35,138 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:43:37,352 [main] INFO eCommerce - Moved to my account element
+2022-12-17 11:43:37,483 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-17 11:43:39,821 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-17 11:43:40,161 [main] INFO eCommerce - DebitedCoinssum is -122
+2022-12-17 11:43:40,255 [main] INFO eCommerce - CreditedSuperCoins is 74
+2022-12-17 11:44:10,806 [main] INFO eCommerce - User provided
+2022-12-17 11:44:10,918 [main] INFO eCommerce - Password provided
+2022-12-17 11:44:11,016 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:44:13,265 [main] INFO eCommerce - Moved to my account element
+2022-12-17 11:44:13,383 [main] INFO eCommerce - Clicked on Orders
+2022-12-17 11:44:17,426 [main] INFO eCommerce - Total Orders are 10
+2022-12-17 11:44:17,446 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:44:17,468 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:44:17,489 [main] INFO eCommerce - Orders are HRX by Hrithik Roshan Solid Men Grey Tra...
+2022-12-17 11:44:17,508 [main] INFO eCommerce - Orders are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-17 11:44:17,527 [main] INFO eCommerce - Orders are realme Buds Air Neo Bluetooth Headset
+2022-12-17 11:44:17,550 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 11:44:17,571 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 11:44:17,589 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 11:44:17,614 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-17 11:44:17,647 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-17 11:44:18,176 [main] INFO eCommerce - Price of Rich Dad Poor Dad is: ?290
+2022-12-17 11:44:46,517 [main] INFO eCommerce - User provided
+2022-12-17 11:44:46,676 [main] INFO eCommerce - Password provided
+2022-12-17 11:44:46,770 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:45:21,999 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-17 11:45:22,211 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:45:22,261 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:45:22,300 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:45:22,348 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:45:22,399 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-17 11:45:22,449 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-17 11:45:22,501 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-17 11:45:22,548 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-17 11:45:22,600 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-17 11:45:22,646 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 11:45:22,694 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-17 11:45:22,735 [main] INFO eCommerce - Element are NEUTROGENA Ultra Sheer Sunblock Cream - SPF 50 PA+++
+2022-12-17 11:45:22,736 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-17 11:45:22,736 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-17 11:45:22,846 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 11:45:22,922 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 11:45:22,988 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 11:47:33,648 [main] INFO eCommerce - User provided
+2022-12-17 11:47:33,772 [main] INFO eCommerce - Password provided
+2022-12-17 11:47:33,870 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:48:20,763 [main] INFO eCommerce - User provided
+2022-12-17 11:48:20,883 [main] INFO eCommerce - Password provided
+2022-12-17 11:48:20,976 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:48:21,294 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-17 11:48:24,721 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-17 11:52:09,361 [main] INFO eCommerce - User provided
+2022-12-17 11:52:09,458 [main] INFO eCommerce - Password provided
+2022-12-17 11:52:09,531 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:52:09,740 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-17 11:52:13,129 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-17 11:52:13,825 [main] INFO eCommerce - Egg Boiler Selected
+2022-12-17 11:52:15,702 [main] INFO eCommerce - Moved to child Window
+2022-12-17 11:52:15,861 [main] INFO eCommerce - Clicked on add to Cart
+2022-12-17 11:52:16,730 [main] INFO eCommerce - Clicked on Remove from Cart
+2022-12-17 11:52:16,886 [main] INFO eCommerce - Item removed from Cart
+2022-12-17 11:54:51,126 [main] INFO eCommerce - User provided
+2022-12-17 11:54:51,247 [main] INFO eCommerce - Password provided
+2022-12-17 11:54:51,321 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:54:51,360 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 11:58:53,496 [main] INFO eCommerce - User provided
+2022-12-17 11:58:53,902 [main] INFO eCommerce - Password provided
+2022-12-17 11:58:54,074 [main] INFO eCommerce - Login in Clicked
+2022-12-17 11:58:54,118 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 12:00:48,162 [main] INFO eCommerce - User provided
+2022-12-17 12:00:48,312 [main] INFO eCommerce - Password provided
+2022-12-17 12:00:48,407 [main] INFO eCommerce - Login in Clicked
+2022-12-17 12:00:48,453 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 12:00:48,501 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:00:48,501 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-17 12:01:47,331 [main] INFO eCommerce - User provided
+2022-12-17 12:01:47,447 [main] INFO eCommerce - Password provided
+2022-12-17 12:01:47,551 [main] INFO eCommerce - Login in Clicked
+2022-12-17 12:01:47,617 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 12:01:47,667 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,701 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,737 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,797 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,830 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,863 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,901 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,932 [main] INFO eCommerce - Item didn't matched
+2022-12-17 12:01:47,969 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-17 12:01:47,969 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-17 12:06:14,697 [main] INFO eCommerce - User provided
+2022-12-17 12:06:15,129 [main] INFO eCommerce - Password provided
+2022-12-17 12:06:15,334 [main] INFO eCommerce - Login in Clicked
+2022-12-17 12:06:15,371 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 12:06:15,435 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-17 12:06:16,546 [main] INFO eCommerce - Mobiles & Tablets matched to Mobiles & Tablets
+2022-12-17 12:08:40,862 [main] INFO eCommerce - User provided
+2022-12-17 12:08:41,023 [main] INFO eCommerce - Password provided
+2022-12-17 12:08:41,134 [main] INFO eCommerce - Login in Clicked
+2022-12-17 12:08:41,177 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 12:08:41,226 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-17 12:08:41,270 [main] INFO eCommerce - Mobiles & Tablets matched to Mobiles & Tablets
+2022-12-17 12:08:41,317 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-17 12:08:41,380 [main] INFO eCommerce - TVs & Appliances matched to TVs & Appliances
+2022-12-17 12:11:53,316 [main] INFO eCommerce - User provided
+2022-12-17 12:11:53,774 [main] INFO eCommerce - Password provided
+2022-12-17 12:11:54,135 [main] INFO eCommerce - Login in Clicked
+2022-12-17 12:11:54,182 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 12:11:54,232 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-17 22:12:31,537 [main] INFO eCommerce - User provided
+2022-12-17 22:12:31,676 [main] INFO eCommerce - Password provided
+2022-12-17 22:12:31,774 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:12:31,847 [main] INFO eCommerce - Title Matched
+2022-12-17 22:13:34,816 [main] INFO eCommerce - User provided
+2022-12-17 22:13:34,966 [main] INFO eCommerce - Password provided
+2022-12-17 22:13:35,069 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:13:37,442 [main] INFO eCommerce - Moved to my account element
+2022-12-17 22:13:37,607 [main] INFO eCommerce - Clicked on Logout 
+2022-12-17 22:13:39,374 [main] INFO eCommerce - Logout Passed 
+2022-12-17 22:17:05,274 [main] INFO eCommerce - User provided
+2022-12-17 22:17:05,392 [main] INFO eCommerce - Password provided
+2022-12-17 22:17:05,490 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:17:05,566 [main] INFO eCommerce - Title Matched
+2022-12-17 22:17:51,367 [main] INFO eCommerce - User provided
+2022-12-17 22:17:51,459 [main] INFO eCommerce - Password provided
+2022-12-17 22:17:51,541 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:17:53,873 [main] INFO eCommerce - Moved to my account element
+2022-12-17 22:17:54,007 [main] INFO eCommerce - Clicked on Logout 
+2022-12-17 22:17:55,387 [main] INFO eCommerce - Logout Passed 
+2022-12-17 22:18:42,273 [main] INFO eCommerce - User provided
+2022-12-17 22:18:42,381 [main] INFO eCommerce - Password provided
+2022-12-17 22:18:42,461 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:18:42,487 [main] INFO eCommerce - Number of Items are equal as expected
+2022-12-17 22:18:42,525 [main] INFO eCommerce - Top Offers matched to Top Offers
+2022-12-17 22:18:42,567 [main] INFO eCommerce - Mobiles & Tablets matched to Mobiles & Tablets
+2022-12-17 22:18:42,609 [main] INFO eCommerce - Electronics matched to Electronics
+2022-12-17 22:18:42,644 [main] INFO eCommerce - TVs & Appliances matched to TVs & Appliances
+2022-12-17 22:18:42,686 [main] INFO eCommerce - Fashion matched to Fashion
+2022-12-17 22:18:42,738 [main] INFO eCommerce - Beauty matched to Beauty
+2022-12-17 22:18:42,778 [main] INFO eCommerce - Home & Furniture matched to Home & Furniture
+2022-12-17 22:18:42,818 [main] INFO eCommerce - Flights matched to Flights
+2022-12-17 22:18:42,875 [main] INFO eCommerce - Grocery matched to Grocery
+2022-12-17 22:18:42,875 [main] INFO eCommerce - TotalItems TestCase Passed
+2022-12-17 22:19:28,499 [main] INFO eCommerce - User provided
+2022-12-17 22:19:28,599 [main] INFO eCommerce - Password provided
+2022-12-17 22:19:28,685 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:19:28,907 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-17 22:19:31,705 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-17 22:20:28,285 [main] INFO eCommerce - User provided
+2022-12-17 22:20:28,404 [main] INFO eCommerce - Password provided
+2022-12-17 22:20:28,490 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:20:30,905 [main] INFO eCommerce - Moved to my account element
+2022-12-17 22:20:31,055 [main] INFO eCommerce - Clicked on SuperCoinZone 
+2022-12-17 22:20:33,074 [main] INFO eCommerce - Clicked on viewCoinActivity 
+2022-12-17 22:20:33,495 [main] INFO eCommerce - DebitedCoinssum is -122
+2022-12-17 22:20:33,645 [main] INFO eCommerce - CreditedSuperCoins is 74
+2022-12-17 22:21:19,656 [main] INFO eCommerce - User provided
+2022-12-17 22:21:19,765 [main] INFO eCommerce - Password provided
+2022-12-17 22:21:19,860 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:21:22,354 [main] INFO eCommerce - Moved to my account element
+2022-12-17 22:21:22,492 [main] INFO eCommerce - Clicked on Orders
+2022-12-17 22:21:26,542 [main] INFO eCommerce - Total Orders are 10
+2022-12-17 22:21:26,564 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:21:26,584 [main] INFO eCommerce - Orders are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:21:26,601 [main] INFO eCommerce - Orders are HRX by Hrithik Roshan Solid Men Grey Tra...
+2022-12-17 22:21:26,618 [main] INFO eCommerce - Orders are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-17 22:21:26,635 [main] INFO eCommerce - Orders are realme Buds Air Neo Bluetooth Headset
+2022-12-17 22:21:26,667 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 22:21:26,690 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 22:21:26,713 [main] INFO eCommerce - Orders are Fitinc Solid Men Black Track Pants
+2022-12-17 22:21:26,740 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-17 22:21:26,765 [main] INFO eCommerce - Orders are METRONAUT Solid Men Black Track Pants
+2022-12-17 22:21:27,318 [main] INFO eCommerce - Price of Rich Dad Poor Dad is: ?290
+2022-12-17 22:22:12,938 [main] INFO eCommerce - User provided
+2022-12-17 22:22:13,034 [main] INFO eCommerce - Password provided
+2022-12-17 22:22:13,120 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:22:48,397 [main] INFO eCommerce - Moved to recently viewed element
+2022-12-17 22:22:48,593 [main] INFO eCommerce - Element are MOTOROLA g52 (Metallic White, 64 GB)
+2022-12-17 22:22:48,640 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:22:48,683 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:22:48,726 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:22:48,777 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:22:48,826 [main] INFO eCommerce - Element are NOVA Blue Electric Egg Boiler NEC 1530 Egg Cooker
+2022-12-17 22:22:48,871 [main] INFO eCommerce - Element are Longway Eggo Egg Cooker
+2022-12-17 22:22:48,917 [main] INFO eCommerce - Element are MILTON Smart Egg Boiler - 360 Watt (Transparent and Silver Grey) - Boil Up to 7 Eggs Egg Cooker
+2022-12-17 22:22:48,967 [main] INFO eCommerce - Element are Rich Dad Poor Dad
+2022-12-17 22:22:49,007 [main] INFO eCommerce - Element are REEBOK Solid Men Round Neck Red T-Shirt
+2022-12-17 22:22:49,050 [main] INFO eCommerce - Element are LANCER CUBA-14 Running Shoes For Men
+2022-12-17 22:22:49,096 [main] INFO eCommerce - Element are LANCER Running Shoes For Men
+2022-12-17 22:22:49,097 [main] INFO eCommerce - Added all recently viewed element into list
+2022-12-17 22:22:49,098 [main] INFO eCommerce - No. of items in recently viewed element list are : 12
+2022-12-17 22:22:49,199 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 22:22:49,268 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 22:22:49,326 [main] INFO eCommerce - Carousel Right Button Clicked
+2022-12-17 22:25:12,575 [main] INFO eCommerce - User provided
+2022-12-17 22:25:12,682 [main] INFO eCommerce - Password provided
+2022-12-17 22:25:12,771 [main] INFO eCommerce - Login in Clicked
+2022-12-17 22:25:13,024 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-17 22:25:15,816 [main] INFO eCommerce - Clicked on 3 Star CheckBox
+2022-12-19 10:54:00,999 [main] INFO eCommerce - User provided
+2022-12-19 10:54:01,259 [main] INFO eCommerce - Password provided
+2022-12-19 10:54:01,594 [main] INFO eCommerce - Login in Clicked
+2022-12-19 10:54:06,842 [main] INFO eCommerce - Searched realme
+2022-12-19 10:55:32,709 [main] INFO eCommerce - User provided
+2022-12-19 10:55:32,999 [main] INFO eCommerce - Password provided
+2022-12-19 10:55:33,354 [main] INFO eCommerce - Login in Clicked
+2022-12-19 10:55:38,642 [main] INFO eCommerce - Searched realme
+2022-12-19 10:59:51,750 [main] INFO eCommerce - User provided
+2022-12-19 10:59:51,897 [main] INFO eCommerce - Password provided
+2022-12-19 10:59:52,004 [main] INFO eCommerce - Login in Clicked
+2022-12-19 10:59:57,319 [main] INFO eCommerce - Searched realme
+2022-12-19 12:13:14,457 [main] INFO eCommerce - User provided
+2022-12-19 12:13:14,847 [main] INFO eCommerce - Password provided
+2022-12-19 12:13:15,022 [main] INFO eCommerce - Login in Clicked
+2022-12-19 12:13:20,323 [main] INFO eCommerce - Searched realme
+2022-12-19 12:13:26,644 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 12:13:26,747 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 12:13:27,636 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 12:43:22,336 [main] INFO eCommerce - User provided
+2022-12-19 12:43:22,436 [main] INFO eCommerce - Password provided
+2022-12-19 12:43:22,518 [main] INFO eCommerce - Login in Clicked
+2022-12-19 12:43:27,808 [main] INFO eCommerce - Searched realme
+2022-12-19 12:43:33,972 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 12:43:34,096 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 13:56:43,306 [main] INFO eCommerce - User provided
+2022-12-19 13:56:43,399 [main] INFO eCommerce - Password provided
+2022-12-19 13:56:43,486 [main] INFO eCommerce - Login in Clicked
+2022-12-19 13:56:48,768 [main] INFO eCommerce - Searched realme
+2022-12-19 13:56:59,491 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 13:56:59,583 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:01:34,841 [main] INFO eCommerce - User provided
+2022-12-19 17:01:35,134 [main] INFO eCommerce - Password provided
+2022-12-19 17:01:35,433 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:01:40,780 [main] INFO eCommerce - Searched realme
+2022-12-19 17:01:53,104 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:01:53,232 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:10:36,705 [main] INFO eCommerce - User provided
+2022-12-19 17:10:36,849 [main] INFO eCommerce - Password provided
+2022-12-19 17:10:36,936 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:10:42,189 [main] INFO eCommerce - Searched realme
+2022-12-19 17:11:36,515 [main] INFO eCommerce - User provided
+2022-12-19 17:11:36,741 [main] INFO eCommerce - Password provided
+2022-12-19 17:11:36,888 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:11:42,408 [main] INFO eCommerce - Searched realme
+2022-12-19 17:11:52,410 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:11:52,541 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:11:57,577 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 17:24:58,858 [main] INFO eCommerce - User provided
+2022-12-19 17:24:58,992 [main] INFO eCommerce - Password provided
+2022-12-19 17:24:59,075 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:25:04,408 [main] INFO eCommerce - Searched realme
+2022-12-19 17:25:13,652 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:25:13,771 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:25:18,812 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 17:27:34,469 [main] INFO eCommerce - User provided
+2022-12-19 17:27:34,602 [main] INFO eCommerce - Password provided
+2022-12-19 17:27:34,709 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:27:40,038 [main] INFO eCommerce - Searched realme
+2022-12-19 17:27:51,061 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:27:51,209 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:27:56,341 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 17:27:56,544 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 17:41:32,997 [main] INFO eCommerce - User provided
+2022-12-19 17:41:33,323 [main] INFO eCommerce - Password provided
+2022-12-19 17:41:33,413 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:41:38,776 [main] INFO eCommerce - Searched realme
+2022-12-19 17:41:45,624 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:41:45,742 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:41:50,858 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 17:46:29,562 [main] INFO eCommerce - User provided
+2022-12-19 17:46:29,683 [main] INFO eCommerce - Password provided
+2022-12-19 17:46:29,788 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:46:35,078 [main] INFO eCommerce - Searched realme
+2022-12-19 17:46:42,730 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:46:42,820 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:46:48,013 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 17:51:27,836 [main] INFO eCommerce - User provided
+2022-12-19 17:51:28,500 [main] INFO eCommerce - Password provided
+2022-12-19 17:51:29,161 [main] INFO eCommerce - Login in Clicked
+2022-12-19 17:51:34,551 [main] INFO eCommerce - Searched realme
+2022-12-19 17:51:44,321 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 17:51:44,433 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 17:51:49,589 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:02:27,087 [main] INFO eCommerce - User provided
+2022-12-19 18:02:27,203 [main] INFO eCommerce - Password provided
+2022-12-19 18:02:27,288 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:02:32,607 [main] INFO eCommerce - Searched realme
+2022-12-19 18:02:38,852 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:02:39,022 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:02:44,210 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:02:47,457 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:02:47,494 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:09:38,251 [main] INFO eCommerce - User provided
+2022-12-19 18:09:38,401 [main] INFO eCommerce - Password provided
+2022-12-19 18:09:38,491 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:09:43,843 [main] INFO eCommerce - Searched realme
+2022-12-19 18:09:52,005 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:09:52,129 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:09:57,268 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:10:00,418 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:16:29,539 [main] INFO eCommerce - User provided
+2022-12-19 18:16:29,741 [main] INFO eCommerce - Password provided
+2022-12-19 18:16:29,895 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:16:35,244 [main] INFO eCommerce - Searched realme
+2022-12-19 18:16:43,572 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:16:43,749 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:16:45,993 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:16:46,281 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:16:46,391 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:37:46,436 [main] INFO eCommerce - User provided
+2022-12-19 18:37:46,555 [main] INFO eCommerce - Password provided
+2022-12-19 18:37:46,660 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:37:51,991 [main] INFO eCommerce - Searched realme
+2022-12-19 18:38:00,349 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:38:00,494 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:38:02,708 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:38:03,028 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:38:03,179 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:40:43,945 [main] INFO eCommerce - User provided
+2022-12-19 18:40:44,070 [main] INFO eCommerce - Password provided
+2022-12-19 18:40:44,158 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:40:49,425 [main] INFO eCommerce - Searched realme
+2022-12-19 18:40:57,324 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:40:57,440 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:40:59,648 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:40:59,850 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:40:59,980 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:43:02,021 [main] INFO eCommerce - User provided
+2022-12-19 18:43:02,342 [main] INFO eCommerce - Password provided
+2022-12-19 18:43:02,485 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:43:07,735 [main] INFO eCommerce - Searched realme
+2022-12-19 18:43:14,542 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:43:14,735 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:43:16,965 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:43:17,232 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:43:17,317 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:46:36,405 [main] INFO eCommerce - User provided
+2022-12-19 18:46:36,524 [main] INFO eCommerce - Password provided
+2022-12-19 18:46:36,614 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:46:41,894 [main] INFO eCommerce - Searched realme
+2022-12-19 18:46:51,644 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:46:51,746 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:46:54,006 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:46:54,306 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:46:54,394 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:51:23,652 [main] INFO eCommerce - User provided
+2022-12-19 18:51:23,780 [main] INFO eCommerce - Password provided
+2022-12-19 18:51:23,859 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:51:29,149 [main] INFO eCommerce - Searched realme
+2022-12-19 18:52:16,113 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:52:16,233 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:52:18,508 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:52:18,741 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:52:18,820 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 18:58:46,434 [main] INFO eCommerce - User provided
+2022-12-19 18:58:47,541 [main] INFO eCommerce - Password provided
+2022-12-19 18:58:47,865 [main] INFO eCommerce - Login in Clicked
+2022-12-19 18:58:53,244 [main] INFO eCommerce - Searched realme
+2022-12-19 18:59:00,542 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 18:59:00,686 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 18:59:02,914 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 18:59:03,159 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 18:59:03,257 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 19:00:20,902 [main] INFO eCommerce - User provided
+2022-12-19 19:00:21,121 [main] INFO eCommerce - Password provided
+2022-12-19 19:00:21,297 [main] INFO eCommerce - Login in Clicked
+2022-12-19 19:00:26,590 [main] INFO eCommerce - Searched realme
+2022-12-19 19:00:32,680 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 19:00:32,881 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 19:00:35,118 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 19:00:35,377 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 19:00:39,500 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 19:00:39,747 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 19:25:20,777 [main] INFO eCommerce - User provided
+2022-12-19 19:25:20,912 [main] INFO eCommerce - Password provided
+2022-12-19 19:25:21,005 [main] INFO eCommerce - Login in Clicked
+2022-12-19 19:25:26,391 [main] INFO eCommerce - Searched realme
+2022-12-19 19:25:35,317 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 19:25:35,446 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 19:25:37,693 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 19:25:38,016 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 19:25:42,108 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 19:25:42,346 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 19:32:33,948 [main] INFO eCommerce - User provided
+2022-12-19 19:32:34,114 [main] INFO eCommerce - Password provided
+2022-12-19 19:32:34,218 [main] INFO eCommerce - Login in Clicked
+2022-12-19 19:32:39,619 [main] INFO eCommerce - Searched realme
+2022-12-19 19:32:49,782 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 19:32:49,915 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 19:32:52,123 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 19:32:52,436 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 19:32:56,532 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 19:32:56,795 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 19:32:57,019 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-19 19:58:17,199 [main] INFO eCommerce - User provided
+2022-12-19 19:58:17,320 [main] INFO eCommerce - Password provided
+2022-12-19 19:58:17,402 [main] INFO eCommerce - Login in Clicked
+2022-12-19 19:58:22,708 [main] INFO eCommerce - Searched realme
+2022-12-19 19:58:32,603 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 19:58:32,783 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 19:58:34,993 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 19:58:35,219 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 19:58:39,428 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 19:58:39,693 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 19:58:39,863 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-19 20:03:00,532 [main] INFO eCommerce - User provided
+2022-12-19 20:03:00,663 [main] INFO eCommerce - Password provided
+2022-12-19 20:03:00,753 [main] INFO eCommerce - Login in Clicked
+2022-12-19 20:03:06,114 [main] INFO eCommerce - Searched realme
+2022-12-19 20:03:27,350 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 20:03:27,486 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 20:03:29,692 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 20:03:29,990 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 20:03:34,084 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 20:03:34,310 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:03:34,537 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-19 20:07:01,089 [main] INFO eCommerce - User provided
+2022-12-19 20:07:01,255 [main] INFO eCommerce - Password provided
+2022-12-19 20:07:01,375 [main] INFO eCommerce - Login in Clicked
+2022-12-19 20:07:06,737 [main] INFO eCommerce - Searched realme
+2022-12-19 20:07:16,501 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 20:07:16,639 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 20:07:18,858 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 20:07:19,121 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 20:07:23,235 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 20:07:23,478 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:07:23,673 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-19 20:07:24,140 [main] INFO eCommerce - Clicked on APPLE
+2022-12-19 20:07:28,236 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 20:07:28,416 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:11:43,663 [main] INFO eCommerce - User provided
+2022-12-19 20:11:43,875 [main] INFO eCommerce - Password provided
+2022-12-19 20:11:44,059 [main] INFO eCommerce - Login in Clicked
+2022-12-19 20:11:49,548 [main] INFO eCommerce - Searched realme
+2022-12-19 20:11:56,971 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 20:11:57,155 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 20:11:59,354 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 20:11:59,603 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 20:12:03,732 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 20:12:03,986 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:12:04,183 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-19 20:12:04,637 [main] INFO eCommerce - Clicked on APPLE
+2022-12-19 20:12:08,708 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-19 20:12:08,874 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:12:09,116 [main] INFO eCommerce - Clicked on Choose Brand 3
+2022-12-19 20:13:14,435 [main] INFO eCommerce - User provided
+2022-12-19 20:13:14,718 [main] INFO eCommerce - Password provided
+2022-12-19 20:13:14,886 [main] INFO eCommerce - Login in Clicked
+2022-12-19 20:13:20,268 [main] INFO eCommerce - Searched realme
+2022-12-19 20:13:35,873 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-19 20:13:36,025 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-19 20:13:38,306 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-19 20:13:38,509 [main] INFO eCommerce - Clicked on Realme
+2022-12-19 20:13:42,608 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-19 20:13:42,770 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:13:42,920 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-19 20:13:43,369 [main] INFO eCommerce - Clicked on APPLE
+2022-12-19 20:13:47,514 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-19 20:13:47,742 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-19 20:13:47,854 [main] INFO eCommerce - Clicked on Choose Brand 3
+2022-12-19 20:13:48,053 [main] INFO eCommerce - Clicked on Huawei
+2022-12-19 20:13:52,236 [main] INFO eCommerce - Clicked on Choose Product 3
+2022-12-19 20:13:52,458 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-21 11:17:06,939 [main] INFO eCommerce - User provided
+2022-12-21 11:17:07,115 [main] INFO eCommerce - Password provided
+2022-12-21 11:17:07,247 [main] INFO eCommerce - Login in Clicked
+2022-12-21 11:17:12,642 [main] INFO eCommerce - Searched realme
+2022-12-21 11:17:20,969 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-21 11:17:21,109 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-21 11:17:23,346 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-21 11:17:23,612 [main] INFO eCommerce - Clicked on Realme
+2022-12-21 11:17:27,724 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-21 11:17:27,993 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-21 11:17:28,211 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-21 11:17:28,711 [main] INFO eCommerce - Clicked on APPLE
+2022-12-21 11:17:32,806 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-22 10:42:23,070 [main] INFO eCommerce - User provided
+2022-12-22 10:57:28,225 [main] INFO eCommerce - Searched realme
+2022-12-22 10:57:39,508 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 10:57:39,663 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 10:57:41,912 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 10:57:42,249 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 10:57:46,369 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-22 10:57:46,622 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 10:57:46,879 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-22 10:57:47,137 [main] INFO eCommerce - Clicked on APPLE
+2022-12-22 10:57:51,239 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-22 11:02:02,505 [main] INFO eCommerce - Searched realme
+2022-12-22 11:04:09,116 [main] INFO eCommerce - Searched realme
+2022-12-22 11:04:22,927 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 11:04:23,089 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 11:04:25,358 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 11:04:25,608 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 11:04:29,772 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-22 11:04:30,076 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:04:30,225 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-22 11:04:30,560 [main] INFO eCommerce - Clicked on APPLE
+2022-12-22 11:04:34,741 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-22 11:06:47,294 [main] INFO eCommerce - Searched realme
+2022-12-22 11:06:57,053 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 11:06:57,148 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 11:06:59,476 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 11:06:59,746 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 11:07:03,862 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-22 11:07:04,046 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:07:04,200 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-22 11:07:04,455 [main] INFO eCommerce - Clicked on APPLE
+2022-12-22 11:07:08,614 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-22 11:07:08,854 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:07:08,982 [main] INFO eCommerce - Clicked on Choose Brand 3
+2022-12-22 11:07:09,192 [main] INFO eCommerce - Clicked on Huawei
+2022-12-22 11:07:13,315 [main] INFO eCommerce - Clicked on Choose Product 3
+2022-12-22 11:07:13,486 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:36:07,312 [main] INFO eCommerce - Searched realme
+2022-12-22 11:36:19,562 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 11:36:19,652 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 11:36:21,818 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 11:36:22,057 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 11:36:26,142 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-22 11:36:26,294 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:36:26,456 [main] INFO eCommerce - Clicked on Choose Brand 2
+2022-12-22 11:36:26,802 [main] INFO eCommerce - Clicked on APPLE
+2022-12-22 11:36:30,949 [main] INFO eCommerce - Clicked on Choose Product 2
+2022-12-22 11:36:31,077 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:36:31,212 [main] INFO eCommerce - Clicked on Choose Brand 3
+2022-12-22 11:36:31,414 [main] INFO eCommerce - Clicked on Huawei
+2022-12-22 11:36:35,478 [main] INFO eCommerce - Clicked on Choose Product 3
+2022-12-22 11:36:35,629 [main] INFO eCommerce - Clicked on Mobile Product
+2022-12-22 11:42:21,592 [main] INFO eCommerce - Searched realme
+2022-12-22 11:42:30,405 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 11:42:30,549 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 11:42:32,749 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 11:42:33,001 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 11:42:37,132 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-22 11:43:42,988 [main] INFO eCommerce - Searched realme
+2022-12-22 11:43:54,064 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 11:43:54,184 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 11:43:56,426 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 11:43:56,686 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 11:44:00,764 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-22 11:49:57,300 [main] INFO eCommerce - Searched realme
+2022-12-22 11:50:09,170 [main] INFO eCommerce - Clicked on Comapre CheckBox
+2022-12-22 11:50:09,281 [main] INFO eCommerce - Clicked on Comapre Button
+2022-12-22 11:50:11,463 [main] INFO eCommerce - Clicked on Choose Brand 1
+2022-12-22 11:50:11,691 [main] INFO eCommerce - Clicked on Realme
+2022-12-22 11:50:15,788 [main] INFO eCommerce - Clicked on Choose Product 1
+2022-12-24 13:10:56,128 [main] INFO eCommerce - Searched Egg Boiler
+2022-12-24 13:10:57,447 [main] INFO eCommerce - Clicked on 3 Star CheckBox
